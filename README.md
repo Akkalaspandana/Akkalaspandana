@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋, I'm Spandana Akkala
 
-<!--
-**Akkalaspandana/Akkalaspandana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Data Analyst, ML enthusiast & Web Developer from India 🌏
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Machine Learning and Backend Technologies & frameworks like **Django** and **Streamlit**
+- 💼 All of my projects are available at [GitHub](https://github.com/Akkalaspandana)
+- 💬 Ask me about **Python, SQL, HTML, CSS, JavaScript**
+- 📫 How to reach me: **spandanaakkala45@gmail.com**
+- ✨ Fun fact: I believe the best ideas are born when curiosity meets creativity 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats Badges
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akkalaspandana&theme=github_dark)](https://github.com/akkalaspandana)
