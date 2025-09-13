@@ -1,5 +1,9 @@
 <h1 align="center">👋 Hi there, I'm Spandana Akkala</h1>
 <h3 align="center">🚀 Aspiring Data Analyst | 💡 ML Enthusiast | 🌐 Full Stack Learner | 🇮🇳 From India</h3>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Akkalaspandana&label=Profile%20Views&color=0e75b6&style=flat" alt="Akkalaspandana" />
+</p>
+
 
 ---
 
